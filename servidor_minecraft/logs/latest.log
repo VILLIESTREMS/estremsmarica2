@@ -80,3 +80,4 @@
 [22:29:53] [Server thread/INFO]: Ruben17[/127.242.85.59:60073] logged in with entity id 2298 at ([world]224.69999998807907, 85.0, 362.72840542409347)
 [22:30:33] [Server thread/INFO]: Villager Villager['Villager'/2314, uuid='165c7534-6e13-4d87-b03d-7e4b81849e62', l='ServerLevel[world]', x=206.99, y=97.00, z=383.91, cpos=[12, 23], tl=784, v=true] died, message: 'Villager was slain by Zombie'
 [22:31:44] [Server thread/INFO]: Villager Villager['Villager'/2342, uuid='e38f45d2-57dd-4f76-b6ce-d34f96427d1f', l='ServerLevel[world]', x=158.79, y=98.18, z=390.70, cpos=[9, 24], tl=2208, v=true] died, message: 'Villager was burned to a crisp while fighting Zombie'
+[22:42:38] [Server thread/INFO]: Villager Villager['Villager'/11648, uuid='46662e3e-0499-48f2-a315-db334f7f894c', l='ServerLevel[world]', x=-2316.70, y=117.00, z=235.30, cpos=[-145, 14], tl=6002, v=true] died, message: 'Villager was slain by rotceh9889'
