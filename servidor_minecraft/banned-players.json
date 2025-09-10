@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "688ddda8-aaf6-324d-9f60-f06f8be6d090",
+    "name": "Villi1",
+    "created": "2025-09-10 19:23:39 +0000",
+    "source": "Villi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "bdfe06b9-8659-359a-a357-13d2b5199a1c",
+    "name": "Raito_404_",
+    "created": "2025-09-09 19:31:21 +0000",
+    "source": "Villi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
