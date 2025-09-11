@@ -163,3 +163,13 @@
 [18:54:06] [Server thread/INFO]: Villager Villager['Cleric'/341, uuid='ab535312-c1b0-4586-a4c5-e350f56d3ac6', l='ServerLevel[world]', x=-2439.30, y=62.00, z=151.50, cpos=[-153, 9], tl=57180, v=true] died, message: 'Cleric was slain by Zombie'
 [18:57:21] [Server thread/INFO]: Villager Villager['Librarian'/834, uuid='62f0922a-551f-4006-91b6-5058202c2f52', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=58893, v=true] died, message: 'Librarian was slain by Zombie'
 [18:57:34] [Server thread/INFO]: Villager Villager['Librarian'/736, uuid='4e1987b4-6738-41b7-b80f-1606a5bc299e', l='ServerLevel[world]', x=-2439.70, y=62.00, z=169.50, cpos=[-153, 10], tl=59885, v=true] died, message: 'Librarian was slain by Zombie'
+[19:09:17] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:09:18] [Server thread/INFO]: Villi left the game
+[19:10:14] [User Authenticator #4/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:10:14] [Server thread/INFO]: Villi joined the game
+[19:10:14] [Server thread/INFO]: Villi[/127.240.193.194:51957] logged in with entity id 28148 at ([world]-2453.7476295987885, 63.0, 166.47348590593117)
+[19:11:07] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:11:07] [Server thread/INFO]: Villi left the game
+[19:11:34] [User Authenticator #5/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:11:34] [Server thread/INFO]: Villi joined the game
+[19:11:34] [Server thread/INFO]: Villi[/127.240.193.194:59745] logged in with entity id 30779 at ([world]-2458.5, 63.0, 179.5)
