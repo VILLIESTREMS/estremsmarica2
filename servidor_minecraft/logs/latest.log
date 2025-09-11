@@ -199,3 +199,10 @@
 [19:48:28] [User Authenticator #8/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
 [19:48:30] [Server thread/INFO]: Pikachu1572 joined the game
 [19:48:30] [Server thread/INFO]: Pikachu1572[/127.142.165.218:36037] logged in with entity id 41787 at ([world]-2459.4344301238493, 63.5625, 179.01711728892562)
+[19:48:55] [Server thread/INFO]: Pikachu1572 issued server command: /regi
+[19:56:54] [User Authenticator #9/INFO]: UUID of player Villi2 is 727a5008-7504-3309-8d82-247ba8d67e13
+[19:56:54] [Server thread/INFO]: Villi2 joined the game
+[19:56:54] [Server thread/INFO]: Villi2[/127.240.193.194:47009] logged in with entity id 50312 at ([world]-2306.512463853412, 140.5, 222.63978598979455)
+[19:56:58] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:56:58] [Server thread/INFO]: Villi joined the game
+[19:56:58] [Server thread/INFO]: Villi[/127.240.193.194:36209] logged in with entity id 50328 at ([world_nether]-376.73427303654364, 211.12654782501383, 24.46645008337232)
