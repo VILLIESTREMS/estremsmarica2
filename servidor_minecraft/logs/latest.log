@@ -222,3 +222,7 @@
 [20:37:33] [User Authenticator #10/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
 [20:37:33] [Server thread/INFO]: estrems joined the game
 [20:37:33] [Server thread/INFO]: estrems[/127.248.184.190:43185] logged in with entity id 72698 at ([world]-2357.0233320168354, 80.0, 141.39143714315446)
+[20:41:59] [Server thread/INFO]: Villager Villager['Fletcher'/73991, uuid='b74cc11f-5ef5-4e70-8c9a-285136e3d182', l='ServerLevel[world]', x=226.81, y=85.00, z=361.46, cpos=[14, 22], tl=2132, v=true] died, message: 'Fletcher was slain by Ruben17'
+[20:42:23] [Server thread/INFO]: Villager Villager['Villager'/73993, uuid='a208551f-bf97-4961-b231-5ba2c0cd700e', l='ServerLevel[world]', x=222.30, y=86.00, z=380.70, cpos=[13, 23], tl=2606, v=true] died, message: 'Villager was slain by Ruben17'
+[20:43:55] [Server thread/INFO]: Villager Villager['Toolsmith'/71374, uuid='dc079690-245f-4fe2-964c-ff8b1b2e97a4', l='ServerLevel[world]', x=-2439.30, y=62.00, z=179.50, cpos=[-153, 11], tl=9590, v=true] died, message: 'Toolsmith was slain by Zombie'
+[20:44:11] [Server thread/INFO]: Villager Villager['Toolsmith'/71447, uuid='b1087659-a20c-401a-b878-9af838ebafcb', l='ServerLevel[world]', x=-2439.30, y=62.00, z=181.50, cpos=[-153, 11], tl=9600, v=true] died, message: 'Toolsmith was slain by Zombie'
