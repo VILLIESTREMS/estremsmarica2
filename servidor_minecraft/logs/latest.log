@@ -228,3 +228,74 @@
 [20:44:11] [Server thread/INFO]: Villager Villager['Toolsmith'/71447, uuid='b1087659-a20c-401a-b878-9af838ebafcb', l='ServerLevel[world]', x=-2439.30, y=62.00, z=181.50, cpos=[-153, 11], tl=9600, v=true] died, message: 'Toolsmith was slain by Zombie'
 [20:53:45] [Server thread/INFO]: Villager Villager['Villager'/121, uuid='03b0a9b9-363d-46b6-8d2d-08f949dd88bd', l='ServerLevel[world]', x=-2445.51, y=59.56, z=203.51, cpos=[-153, 12], tl=200761, v=true] died, message: 'Villager was slain by Villi'
 [20:53:51] [Server thread/INFO]: Villager Villager['Villager'/124, uuid='22bc8c78-cad1-4b16-8925-ac4a68ef0221', l='ServerLevel[world]', x=-2444.74, y=59.56, z=203.71, cpos=[-153, 12], tl=200878, v=true] died, message: 'Villager was slain by Villi'
+[21:01:46] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[21:01:46] [Server thread/INFO]: rotceh9889 left the game
+[21:01:52] [User Authenticator #11/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
+[21:01:53] [Server thread/INFO]: rotceh9889 joined the game
+[21:01:53] [Server thread/INFO]: rotceh9889[/127.242.85.59:39031] logged in with entity id 103597 at ([world_nether]-538.3985387787401, 128.0, -17.521261429517406)
+[21:02:12] [Server thread/INFO]: Villi lost connection: Disconnected
+[21:02:12] [Server thread/INFO]: Villi left the game
+[21:02:13] [Server thread/INFO]: estrems lost connection: Disconnected
+[21:02:13] [Server thread/INFO]: estrems left the game
+[21:02:14] [User Authenticator #11/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[21:02:15] [Server thread/INFO]: Villi joined the game
+[21:02:15] [Server thread/INFO]: Villi[/127.240.193.194:48639] logged in with entity id 103815 at ([world_nether]-521.1599007642619, 239.0625, 16.81819689414691)
+[21:02:15] [User Authenticator #11/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[21:02:15] [Server thread/INFO]: estrems joined the game
+[21:02:15] [Server thread/INFO]: estrems[/127.248.184.190:60567] logged in with entity id 103824 at ([world_nether]-508.2972757112792, 247.0, -6.700369534672213)
+[21:03:04] [Server thread/WARN]: Villi moved wrongly!
+[21:04:30] [Server thread/INFO]: estrems lost connection: Disconnected
+[21:04:30] [Server thread/INFO]: estrems left the game
+[21:06:27] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[21:06:27] [Server thread/INFO]: Pikachu1572 left the game
+[21:06:29] [User Authenticator #12/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[21:06:30] [Server thread/INFO]: Pikachu1572 joined the game
+[21:06:30] [Server thread/INFO]: Pikachu1572[/127.142.165.218:52753] logged in with entity id 109405 at ([world]-1638.69468323255, 117.0606471329235, 320.4018183740061)
+[21:15:22] [Server thread/INFO]: Villi lost connection: Disconnected
+[21:15:22] [Server thread/INFO]: Villi left the game
+[21:16:17] [Server thread/INFO]: Pikachu1572 has made the advancement [Those Were the Days]
+[21:16:42] [Server thread/INFO]: Ruben17 lost connection: Disconnected
+[21:16:42] [Server thread/INFO]: Ruben17 left the game
+[21:16:42] [Server thread/INFO]: Villi2 lost connection: Disconnected
+[21:16:42] [Server thread/INFO]: Villi2 left the game
+[21:16:42] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[21:16:42] [Server thread/INFO]: rotceh9889 left the game
+[21:16:42] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[21:16:42] [Server thread/INFO]: Pikachu1572 left the game
+[21:16:42] [Server thread/INFO]: Stopping server
+[21:16:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[21:16:42] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[21:16:42] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[21:16:42] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[21:16:42] [Server thread/INFO]: [BetterSleep] Disabling BetterSleep v1.0
+[21:16:42] [Server thread/INFO]: Saving players
+[21:16:43] [Server thread/INFO]: Saving worlds
+[21:16:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Saved 208 block chunks, 452 entity chunks, 0 poi chunks in world 'world' in 0.78s
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:16:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:16:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:16:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:16:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:16:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Saved 1864 block chunks, 1514 entity chunks, 0 poi chunks in world 'world_nether' in 2.23s
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:16:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 33 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:16:47] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:16:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:16:47] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[21:16:47] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[21:16:47] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:16:47] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
