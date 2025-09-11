@@ -103,3 +103,55 @@
 [18:12:29] [User Authenticator #2/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
 [18:12:30] [Server thread/INFO]: Ruben17 joined the game
 [18:12:30] [Server thread/INFO]: Ruben17[/127.242.85.59:60027] logged in with entity id 1854 at ([world]-2456.649477543517, 63.0, 184.96762894012855)
+[18:16:19] [Server thread/INFO]: Villi issued server command: /skin search Spiderman
+[18:16:34] [Server thread/INFO]: Villi issued server command: /skin set venomspiderman
+[18:16:46] [Server thread/INFO]: Villi issued server command: /skin set spiderman
+[18:16:50] [Server thread/INFO]: Villi issued server command: /skin set spidermanvenom
+[18:17:04] [Server thread/INFO]: Villi issued server command: /skin set venom
+[18:17:09] [Server thread/INFO]: Villi issued server command: /skin set venomspider
+[18:17:14] [Server thread/INFO]: Villi issued server command: /skin set venom
+[18:17:30] [Server thread/INFO]: Villi issued server command: /skin set power
+[18:17:39] [Server thread/INFO]: Villi issued server command: /skin set steve
+[18:17:42] [Server thread/INFO]: Villi issued server command: /skin set alex
+[18:17:46] [Server thread/INFO]: Villi issued server command: /skin set power
+[18:17:51] [Server thread/INFO]: Villi issued server command: /skin set lol
+[18:17:58] [Server thread/INFO]: Villi issued server command: /skin set down
+[18:18:03] [Server thread/INFO]: Villi issued server command: /skin set up
+[18:18:13] [Server thread/INFO]: Villi issued server command: /skin set sexy
+[18:18:14] [Server thread/INFO]: Villi issued server command: /skin set sex
+[18:18:18] [Server thread/INFO]: Villi issued server command: /skin set sara
+[18:18:49] [Server thread/INFO]: Villi issued server command: /skin set lara
+[18:18:58] [Server thread/INFO]: Villi issued server command: /skin lara
+[18:19:05] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:06] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:08] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:09] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:09] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:10] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:11] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:12] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:12] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:13] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:14] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:15] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:16] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:56] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:57] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:58] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:58] [Server thread/INFO]: Villi issued server command: /skin random
+[18:19:59] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:04] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:05] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:06] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:07] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:07] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:08] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:09] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:11] [Server thread/INFO]: Villi issued server command: /skin random
+[18:20:11] [Server thread/WARN]: Ruben17 moved wrongly!
+[18:20:12] [Server thread/INFO]: Villi issued server command: /skin random
+[18:21:57] [Server thread/INFO]: Villi lost connection: Disconnected
+[18:21:57] [Server thread/INFO]: Villi left the game
+[18:23:58] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[18:23:59] [Server thread/INFO]: Villi joined the game
+[18:23:59] [Server thread/INFO]: Villi[/127.240.193.194:52027] logged in with entity id 5687 at ([world]-2455.69639515315, 63.0, 162.78254288002557)
