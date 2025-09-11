@@ -173,3 +173,12 @@
 [19:11:34] [User Authenticator #5/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [19:11:34] [Server thread/INFO]: Villi joined the game
 [19:11:34] [Server thread/INFO]: Villi[/127.240.193.194:59745] logged in with entity id 30779 at ([world]-2458.5, 63.0, 179.5)
+[19:23:06] [Server thread/WARN]: Villi moved wrongly!
+[19:23:06] [Server thread/WARN]: Villi moved wrongly!
+[19:33:58] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:33:58] [Server thread/INFO]: Villi left the game
+[19:36:29] [User Authenticator #6/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[19:36:30] [Server thread/INFO]: Villi joined the game
+[19:36:30] [Server thread/INFO]: Villi[/127.240.193.194:56329] logged in with entity id 38925 at ([world]-2307.852847919635, 73.0, 178.07517444187502)
+[19:37:33] [Server thread/INFO]: Villi lost connection: Disconnected
+[19:37:33] [Server thread/INFO]: Villi left the game
