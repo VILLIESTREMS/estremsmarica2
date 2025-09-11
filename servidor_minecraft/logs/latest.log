@@ -182,3 +182,20 @@
 [19:36:30] [Server thread/INFO]: Villi[/127.240.193.194:56329] logged in with entity id 38925 at ([world]-2307.852847919635, 73.0, 178.07517444187502)
 [19:37:33] [Server thread/INFO]: Villi lost connection: Disconnected
 [19:37:33] [Server thread/INFO]: Villi left the game
+[19:38:47] [User Authenticator #7/INFO]: Disconnecting estrems (/127.248.184.190:47283): [LoginSecurity] This player is already online!
+[19:38:47] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:38:47] [Server thread/INFO]: estrems (/127.248.184.190:47283) lost connection: [LoginSecurity] This player is already online!
+[19:38:49] [User Authenticator #7/INFO]: Disconnecting estrems (/127.248.184.190:60523): [LoginSecurity] This player is already online!
+[19:38:49] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:38:49] [Server thread/INFO]: estrems (/127.248.184.190:60523) lost connection: [LoginSecurity] This player is already online!
+[19:38:54] [Server thread/INFO]: Villi2 lost connection: Timed out
+[19:38:54] [Server thread/INFO]: Villi2 left the game
+[19:38:54] [Server thread/INFO]: estrems lost connection: Timed out
+[19:38:54] [Server thread/INFO]: estrems left the game
+[19:38:59] [User Authenticator #7/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[19:38:59] [Server thread/INFO]: estrems joined the game
+[19:38:59] [Server thread/INFO]: estrems[/127.248.184.190:38033] logged in with entity id 39866 at ([world]-2302.9826789704134, 69.69216543047311, 162.27855379287413)
+[19:42:37] [Server thread/INFO]: Villager Villager['Librarian'/123, uuid='d168bee5-adde-44b8-9d85-d97badf49326', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=115396, v=true] died, message: 'Librarian was slain by Zombie'
+[19:48:28] [User Authenticator #8/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[19:48:30] [Server thread/INFO]: Pikachu1572 joined the game
+[19:48:30] [Server thread/INFO]: Pikachu1572[/127.142.165.218:36037] logged in with entity id 41787 at ([world]-2459.4344301238493, 63.5625, 179.01711728892562)
