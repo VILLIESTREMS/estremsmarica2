@@ -62,3 +62,7 @@
 [09:02:30] [Server thread/INFO]: estrems[/127.248.184.190:46185] logged in with entity id 34 at ([world]-2455.3513134051514, 63.0, 161.7728317118035)
 [09:02:33] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 3b5509a1-8f9b-4257-843a-1af7007fb69a, mapped to Bat['Bat'/203, uuid='3b5509a1-8f9b-4257-843a-1af7007fb69a', l='ServerLevel[world]', x=-2298.40, y=-9.82, z=172.13, cpos=[-144, 10], tl=0, v=true], can't add Bat['Bat'/248, uuid='3b5509a1-8f9b-4257-843a-1af7007fb69a', l='ServerLevel[world]', x=-2297.42, y=-7.59, z=177.11, cpos=[-144, 11], tl=0, v=false]
 [09:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[09:23:17] [Server thread/INFO]: estrems has made the advancement [The Parrots and the Bats]
+[09:24:58] [User Authenticator #1/INFO]: UUID of player Pikachu1572 is fb101342-6e32-34d6-859f-bb2589f07fe1
+[09:24:59] [Server thread/INFO]: Pikachu1572 joined the game
+[09:24:59] [Server thread/INFO]: Pikachu1572[/127.142.165.218:53825] logged in with entity id 4462 at ([world]-2305.1077487372972, 70.0, 224.72897275571447)
