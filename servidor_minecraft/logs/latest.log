@@ -155,3 +155,6 @@
 [18:23:58] [User Authenticator #3/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [18:23:59] [Server thread/INFO]: Villi joined the game
 [18:23:59] [Server thread/INFO]: Villi[/127.240.193.194:52027] logged in with entity id 5687 at ([world]-2455.69639515315, 63.0, 162.78254288002557)
+[18:29:55] [Server thread/INFO]: Villager Villager['Librarian'/308, uuid='dacd3d51-a839-4787-9bc1-fba151c7efff', l='ServerLevel[world]', x=-2439.70, y=62.00, z=175.50, cpos=[-153, 10], tl=28147, v=true] died, message: 'Librarian was slain by Zombie'
+[18:33:02] [Server thread/INFO]: Villager Villager['Cleric'/343, uuid='378cf099-a86f-4bfc-89ee-ae89c77e7120', l='ServerLevel[world]', x=-2439.30, y=62.00, z=155.50, cpos=[-153, 9], tl=31889, v=true] died, message: 'Cleric was slain by Zombie'
+[18:33:11] [Server thread/INFO]: Villager Villager['Cleric'/342, uuid='9db83750-2032-4ed5-a91b-9a10044b32de', l='ServerLevel[world]', x=-2439.30, y=62.00, z=153.50, cpos=[-153, 9], tl=32071, v=true] died, message: 'Cleric was slain by Zombie'
