@@ -210,3 +210,15 @@
 [20:04:44] [Server thread/INFO]: Villager Villager['Librarian'/20401, uuid='09b155e2-6aad-4121-9598-1699b0f47d4c', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=76174, v=true] died, message: 'Librarian was slain by Zombie'
 [20:04:59] [Server thread/INFO]: Villager Villager['Librarian'/41388, uuid='cd9d4030-edf9-4970-922c-5cd74bd8bfff', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=22258, v=true] died, message: 'Librarian was slain by Zombie'
 [20:19:04] [Server thread/INFO]: Villager Villager['Toolsmith'/57568, uuid='e2975d9f-67fb-485c-8b2b-2a0ebcafac05', l='ServerLevel[world]', x=-2439.30, y=62.00, z=181.50, cpos=[-153, 11], tl=6918, v=true] died, message: 'Toolsmith was slain by Zombie'
+[20:22:15] [Server thread/INFO]: Villager Villager['Toolsmith'/60307, uuid='9993f82f-b361-4dc7-acac-5d11344411f5', l='ServerLevel[world]', x=-2439.30, y=62.00, z=179.50, cpos=[-153, 11], tl=3517, v=true] died, message: 'Toolsmith was slain by Zombie'
+[20:22:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Villi> el pancho nos esta matando
+[20:22:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Villi> vaya puta mierda ajsjajsj
+[20:22:37] [Async Chat Thread - #1/INFO]: [Not Secure] <rotceh9889> jajjajajj
+[20:30:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Villi> chat gg
+[20:31:06] [Server thread/INFO]: Villager Villager['Toolsmith'/64843, uuid='4a134017-a81c-4606-99b2-c5f3d2138ba7', l='ServerLevel[world]', x=-2439.30, y=62.00, z=179.50, cpos=[-153, 11], tl=4851, v=true] died, message: 'Toolsmith was slain by Zombie'
+[20:31:38] [Server thread/INFO]: Villager Villager['Toolsmith'/64809, uuid='153d45a9-9761-4414-90dc-453198736cbb', l='ServerLevel[world]', x=-2439.30, y=62.00, z=181.50, cpos=[-153, 11], tl=5536, v=true] died, message: 'Toolsmith was slain by Zombie'
+[20:36:08] [Server thread/INFO]: estrems lost connection: Disconnected
+[20:36:08] [Server thread/INFO]: estrems left the game
+[20:37:33] [User Authenticator #10/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[20:37:33] [Server thread/INFO]: estrems joined the game
+[20:37:33] [Server thread/INFO]: estrems[/127.248.184.190:43185] logged in with entity id 72698 at ([world]-2357.0233320168354, 80.0, 141.39143714315446)
