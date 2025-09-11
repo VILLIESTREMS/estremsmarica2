@@ -206,3 +206,6 @@
 [19:56:58] [User Authenticator #9/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [19:56:58] [Server thread/INFO]: Villi joined the game
 [19:56:58] [Server thread/INFO]: Villi[/127.240.193.194:36209] logged in with entity id 50328 at ([world_nether]-376.73427303654364, 211.12654782501383, 24.46645008337232)
+[20:02:34] [Server thread/INFO]: Villager Villager['Librarian'/20905, uuid='d1d74d37-dc1c-4045-870f-1560b83b0657', l='ServerLevel[world]', x=-2439.30, y=62.00, z=169.50, cpos=[-153, 10], tl=72560, v=true] died, message: 'Librarian was slain by Zombie'
+[20:04:44] [Server thread/INFO]: Villager Villager['Librarian'/20401, uuid='09b155e2-6aad-4121-9598-1699b0f47d4c', l='ServerLevel[world]', x=-2439.30, y=62.00, z=167.50, cpos=[-153, 10], tl=76174, v=true] died, message: 'Librarian was slain by Zombie'
+[20:04:59] [Server thread/INFO]: Villager Villager['Librarian'/41388, uuid='cd9d4030-edf9-4970-922c-5cd74bd8bfff', l='ServerLevel[world]', x=-2439.30, y=62.00, z=171.50, cpos=[-153, 10], tl=22258, v=true] died, message: 'Librarian was slain by Zombie'
