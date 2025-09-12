@@ -362,3 +362,5 @@
 [15:11:22] [Server thread/INFO]: Villager Villager['Fletcher'/160399, uuid='63a42432-a9b8-4722-9e82-5f30e153b0e7', l='ServerLevel[world]', x=-2468.64, y=63.19, z=178.09, cpos=[-155, 11], tl=13395, v=true] died, message: 'Fletcher was slain by Zombie'
 [15:11:26] [Server thread/INFO]: Villi issued server command: /gamemode survival
 [15:11:26] [Server thread/INFO]: [Villi: Set own game mode to Survival Mode]
+[15:26:44] [Server thread/INFO]: Villager Villager['Villager'/160416, uuid='b2ba3185-c25b-4350-bd1f-80b4815baaaa', l='ServerLevel[world]', x=-2446.70, y=56.00, z=197.70, cpos=[-153, 12], tl=31832, v=true] died, message: 'Villager was squished too much'
+[15:32:17] [Server thread/INFO]: Villager Villager['Villager'/160418, uuid='8cb6c968-c50f-4506-bb4b-74ca9c52cbd1', l='ServerLevel[world]', x=-2446.30, y=56.00, z=197.30, cpos=[-153, 12], tl=38489, v=true] died, message: 'Villager was squished too much'
