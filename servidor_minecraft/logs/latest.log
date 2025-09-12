@@ -359,3 +359,6 @@
 [15:00:23] [Server thread/INFO]: [Villi: Changed the block at -2513, 113, 250]
 [15:00:23] [Server thread/INFO]: Villi issued server command: /setblock -2509 106 256 minecraft:dirt
 [15:00:23] [Server thread/INFO]: [Villi: Changed the block at -2509, 106, 256]
+[15:11:22] [Server thread/INFO]: Villager Villager['Fletcher'/160399, uuid='63a42432-a9b8-4722-9e82-5f30e153b0e7', l='ServerLevel[world]', x=-2468.64, y=63.19, z=178.09, cpos=[-155, 11], tl=13395, v=true] died, message: 'Fletcher was slain by Zombie'
+[15:11:26] [Server thread/INFO]: Villi issued server command: /gamemode survival
+[15:11:26] [Server thread/INFO]: [Villi: Set own game mode to Survival Mode]
