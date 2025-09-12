@@ -185,3 +185,12 @@
 [13:41:03] [Server thread/INFO]: Villi left the game
 [13:41:33] [Server thread/INFO]: Ruben17 has made the advancement [Voluntary Exile]
 [13:42:58] [Server thread/INFO]: Villager Villager['Librarian'/100025, uuid='44bf60bd-4da8-44c3-9f5c-fd1e7b672c0c', l='ServerLevel[world]', x=-2439.22, y=63.00, z=177.49, cpos=[-153, 11], tl=12971, v=true] died, message: 'Librarian suffocated in a wall'
+[13:49:46] [User Authenticator #12/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[13:49:47] [Server thread/INFO]: Villi joined the game
+[13:49:47] [Server thread/INFO]: Villi[/127.240.193.194:43963] logged in with entity id 113278 at ([world]-2339.945125702081, 89.0, 141.28630704916083)
+[13:57:26] [Server thread/INFO]: estrems has made the advancement [Ol' Betsy]
+[13:57:31] [Server thread/INFO]: Villi lost connection: Disconnected
+[13:57:31] [Server thread/INFO]: Villi left the game
+[13:59:24] [User Authenticator #13/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[13:59:24] [Server thread/INFO]: Villi joined the game
+[13:59:24] [Server thread/INFO]: Villi[/127.240.193.194:59947] logged in with entity id 120875 at ([world]-2337.280486145857, 98.0, 140.6229194378885)
