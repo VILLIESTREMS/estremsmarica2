@@ -118,3 +118,13 @@
 [10:09:52] [Server thread/INFO]: estrems lost connection: Disconnected
 [10:09:52] [Server thread/INFO]: estrems left the game
 [10:14:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Pikachu1572> 919 483
+[10:18:21] [User Authenticator #3/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[10:18:22] [Server thread/INFO]: estrems joined the game
+[10:18:22] [Server thread/INFO]: estrems[/127.248.184.190:38675] logged in with entity id 6378 at ([world]-2340.5830118406393, 100.0, 132.45907503087895)
+[10:20:07] [Server thread/INFO]: estrems lost connection: Disconnected
+[10:20:07] [Server thread/INFO]: estrems left the game
+[10:20:25] [User Authenticator #4/INFO]: UUID of player estrems is 002593b6-47c6-3516-a440-6abefab6faf4
+[10:20:25] [Server thread/INFO]: estrems joined the game
+[10:20:25] [Server thread/INFO]: estrems[/127.248.184.190:43651] logged in with entity id 6705 at ([world]-2340.410165036945, 100.0, 132.2597564612237)
+[10:21:29] [Server thread/WARN]: Pikachu1572 moved wrongly!
+[10:27:58] [Server thread/WARN]: estrems moved wrongly!
