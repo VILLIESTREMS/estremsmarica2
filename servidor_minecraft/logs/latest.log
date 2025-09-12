@@ -179,3 +179,9 @@
 [13:20:47] [Server thread/WARN]: Pikachu1572 moved wrongly!
 [13:21:35] [Server thread/WARN]: Villi moved wrongly!
 [13:23:07] [Async Chat Thread - #10/INFO]: [Not Secure] <Villi> polvora?
+[13:33:03] [Server thread/INFO]: Villi blew up
+[13:35:21] [Server thread/WARN]: Villi moved wrongly!
+[13:41:03] [Server thread/INFO]: Villi lost connection: Disconnected
+[13:41:03] [Server thread/INFO]: Villi left the game
+[13:41:33] [Server thread/INFO]: Ruben17 has made the advancement [Voluntary Exile]
+[13:42:58] [Server thread/INFO]: Villager Villager['Librarian'/100025, uuid='44bf60bd-4da8-44c3-9f5c-fd1e7b672c0c', l='ServerLevel[world]', x=-2439.22, y=63.00, z=177.49, cpos=[-153, 11], tl=12971, v=true] died, message: 'Librarian suffocated in a wall'
