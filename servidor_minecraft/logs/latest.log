@@ -364,3 +364,44 @@
 [15:11:26] [Server thread/INFO]: [Villi: Set own game mode to Survival Mode]
 [15:26:44] [Server thread/INFO]: Villager Villager['Villager'/160416, uuid='b2ba3185-c25b-4350-bd1f-80b4815baaaa', l='ServerLevel[world]', x=-2446.70, y=56.00, z=197.70, cpos=[-153, 12], tl=31832, v=true] died, message: 'Villager was squished too much'
 [15:32:17] [Server thread/INFO]: Villager Villager['Villager'/160418, uuid='8cb6c968-c50f-4506-bb4b-74ca9c52cbd1', l='ServerLevel[world]', x=-2446.30, y=56.00, z=197.30, cpos=[-153, 12], tl=38489, v=true] died, message: 'Villager was squished too much'
+[15:48:52] [Server thread/INFO]: Pikachu1572 lost connection: Disconnected
+[15:48:52] [Server thread/INFO]: Pikachu1572 left the game
+[15:48:52] [Server thread/INFO]: Villi lost connection: Disconnected
+[15:48:52] [Server thread/INFO]: Villi left the game
+[15:48:52] [Server thread/INFO]: Stopping server
+[15:48:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[15:48:52] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[15:48:52] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[15:48:52] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[15:48:52] [Server thread/INFO]: [BetterSleep] Disabling BetterSleep v1.0
+[15:48:52] [Server thread/INFO]: Saving players
+[15:48:52] [Server thread/INFO]: Saving worlds
+[15:48:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:48:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:48:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:48:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Saved 30 block chunks, 287 entity chunks, 0 poi chunks in world 'world' in 0.42s
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[15:48:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Saved 12 block chunks, 241 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[15:48:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 26 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[15:48:53] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[15:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:48:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:48:53] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[15:48:53] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[15:48:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[15:48:53] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
