@@ -209,3 +209,62 @@
 [14:11:56] [Server thread/INFO]: [Villi: Set the weather to clear]
 [14:12:15] [Server thread/INFO]: Villi lost connection: Disconnected
 [14:12:15] [Server thread/INFO]: Villi left the game
+[14:26:08] [User Authenticator #15/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:26:08] [Server thread/INFO]: Villi joined the game
+[14:26:08] [Server thread/INFO]: Villi[/127.240.193.194:40553] logged in with entity id 138811 at ([world]-2337.5448590966903, 98.0, 143.5769832761234)
+[14:27:14] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:27:14] [Server thread/INFO]: Villi left the game
+[14:27:46] [User Authenticator #16/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:27:47] [Server thread/INFO]: Villi joined the game
+[14:27:47] [Server thread/INFO]: Villi[/127.240.193.194:57847] logged in with entity id 140343 at ([world]-2337.4476374932165, 98.0, 140.70311517384215)
+[14:27:54] [Server thread/INFO]: Villi issued server command: /gamemode creative
+[14:27:54] [Server thread/INFO]: [Villi: Set own game mode to Creative Mode]
+[14:28:02] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:stick
+[14:28:02] [Server thread/INFO]: [Villi: Gave 1 [Stick] to Villi]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /gamerule sendCommandFeedback
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2335 94 149 minecraft:dirt
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2335, 94, 149]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2341 99 145 minecraft:dirt
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2341, 99, 145]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /fill -2339 96 147 -2339 96 148 minecraft:slime_block replace air
+[14:28:07] [Server thread/INFO]: [Villi: Successfully filled 2 block(s)]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /fill -2339 97 147 -2338 97 147 minecraft:slime_block replace air
+[14:28:07] [Server thread/INFO]: [Villi: Successfully filled 2 block(s)]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 98 145 minecraft:sticky_piston[extended=false,facing=south]
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 98, 145]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 96 146 minecraft:iron_block
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 96, 146]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /fill -2338 97 146 -2338 98 146 minecraft:slime_block replace air
+[14:28:07] [Server thread/INFO]: [Villi: Successfully filled 2 block(s)]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 96 147 minecraft:tnt[unstable=false]
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 96, 147]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 98 147 minecraft:detector_rail[powered=true,shape=north_south,waterlogged=false]
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 98, 147]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 96 148 minecraft:dead_fire_coral_wall_fan[facing=east,waterlogged=false]
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 96, 148]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /setblock -2338 97 148 minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]
+[14:28:07] [Server thread/INFO]: [Villi: Changed the block at -2338, 97, 148]
+[14:28:07] [Server thread/INFO]: Villi issued server command: /summon minecraft:minecart -2337.500000 98.062500 147.490000
+[14:28:07] [Server thread/INFO]: [Villi: Summoned new Minecart]
+[14:29:53] [Server thread/INFO]: Villi issued server command: /gamemode survival
+[14:29:53] [Server thread/INFO]: [Villi: Set own game mode to Survival Mode]
+[14:30:51] [Server thread/INFO]: Villi issued server command: /give Villi minecraft:diamond_sword
+[14:30:51] [Server thread/INFO]: [Villi: Gave 1 [Diamond Sword] to Villi]
+[14:30:59] [Server thread/INFO]: Villi issued server command: /enchant Villi minecraft:unbreaking 3
+[14:30:59] [Server thread/INFO]: [Villi: Applied enchantment Unbreaking III to Villi's item]
+[14:31:03] [Server thread/INFO]: Villi issued server command: /enchant Villi minecraft:sharpness 5
+[14:31:03] [Server thread/INFO]: [Villi: Applied enchantment Sharpness V to Villi's item]
+[14:31:06] [Server thread/INFO]: Villi issued server command: /enchant Villi minecraft:mending
+[14:31:06] [Server thread/INFO]: [Villi: Applied enchantment Mending to Villi's item]
+[14:31:15] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:31:15] [Server thread/INFO]: Villi left the game
+[14:31:16] [User Authenticator #17/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:31:16] [Server thread/INFO]: Villi joined the game
+[14:31:16] [Server thread/INFO]: Villi[/127.240.193.194:48857] logged in with entity id 142804 at ([world]-2338.6138535778864, 89.0, 140.45615650282554)
+[14:31:25] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:31:25] [Server thread/INFO]: Villi left the game
+[14:34:51] [User Authenticator #18/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:34:52] [Server thread/INFO]: Villi joined the game
+[14:34:52] [Server thread/INFO]: Villi[/127.240.193.194:48845] logged in with entity id 144742 at ([world]-2415.913027944919, 79.0, 159.68033599155322)
+[14:41:48] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:41:48] [Server thread/INFO]: Villi left the game
