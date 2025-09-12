@@ -154,3 +154,11 @@
 [12:43:52] [User Authenticator #8/INFO]: UUID of player rotceh9889 is 8dca058e-0d7b-3303-89c7-a42b715ea559
 [12:43:53] [Server thread/INFO]: rotceh9889 joined the game
 [12:43:53] [Server thread/INFO]: rotceh9889[/127.242.85.59:52569] logged in with entity id 54214 at ([world]-2448.6207966111465, 63.0, 164.14642431768473)
+[13:06:49] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[13:06:49] [Server thread/INFO]: rotceh9889 left the game
+[13:09:29] [User Authenticator #9/INFO]: UUID of player Ruben17 is 38de0807-4de7-3327-9c3b-72f51d8c540b
+[13:09:30] [Server thread/INFO]: Ruben17 joined the game
+[13:09:30] [Server thread/INFO]: Ruben17[/127.242.85.59:52131] logged in with entity id 71232 at ([world]-2455.6091816823814, 63.0, 184.95111000872737)
+[13:10:41] [Server thread/INFO]: Villager Villager['Villager'/71275, uuid='5b6d6c5c-5320-460b-9c61-ed427045e070', l='ServerLevel[world]', x=-2446.70, y=56.00, z=197.70, cpos=[-153, 12], tl=1401, v=true] died, message: 'Villager was squished too much'
+[13:11:02] [Server thread/INFO]: Villager Villager['Villager'/71259, uuid='8b1d931c-5aa8-4d99-bca1-57dde9d5a0b3', l='ServerLevel[world]', x=-2457.45, y=65.06, z=187.50, cpos=[-154, 11], tl=1821, v=true] died, message: 'Villager was slain by Ruben17'
+[13:11:03] [Server thread/INFO]: Villager Villager['Librarian'/71253, uuid='a0e2310f-07fa-475a-b2e3-5482907d934a', l='ServerLevel[world]', x=-2456.45, y=63.06, z=187.50, cpos=[-154, 11], tl=1848, v=true] died, message: 'Librarian was slain by Ruben17'
