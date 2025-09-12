@@ -194,3 +194,18 @@
 [13:59:24] [User Authenticator #13/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
 [13:59:24] [Server thread/INFO]: Villi joined the game
 [13:59:24] [Server thread/INFO]: Villi[/127.240.193.194:59947] logged in with entity id 120875 at ([world]-2337.280486145857, 98.0, 140.6229194378885)
+[14:04:18] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:04:18] [Server thread/INFO]: Villi left the game
+[14:05:43] [User Authenticator #14/INFO]: UUID of player Villi is 505ac892-6dc5-320d-a3f6-defca714f35e
+[14:05:43] [Server thread/INFO]: Villi joined the game
+[14:05:43] [Server thread/INFO]: Villi[/127.240.193.194:33095] logged in with entity id 127899 at ([world]-2337.9334199497016, 98.0, 140.11567075235396)
+[14:07:21] [Server thread/INFO]: Villager Villager['Fletcher'/100126, uuid='0c13f869-8575-4306-bd61-572e589fd8cb', l='ServerLevel[world]', x=-2469.49, y=63.50, z=183.66, cpos=[-155, 11], tl=42218, v=true] died, message: 'Fletcher was slain by Drowned'
+[14:07:25] [Server thread/INFO]: Villager Villager['Fletcher'/100129, uuid='569d7737-0f14-4646-97e0-b10c460717c6', l='ServerLevel[world]', x=-2469.06, y=63.19, z=180.80, cpos=[-155, 11], tl=42302, v=true] died, message: 'Fletcher was slain by Drowned'
+[14:07:28] [Server thread/INFO]: estrems lost connection: Disconnected
+[14:07:28] [Server thread/INFO]: estrems left the game
+[14:07:36] [Server thread/INFO]: rotceh9889 lost connection: Disconnected
+[14:07:36] [Server thread/INFO]: rotceh9889 left the game
+[14:11:56] [Server thread/INFO]: Villi issued server command: /weather clear
+[14:11:56] [Server thread/INFO]: [Villi: Set the weather to clear]
+[14:12:15] [Server thread/INFO]: Villi lost connection: Disconnected
+[14:12:15] [Server thread/INFO]: Villi left the game
